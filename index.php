@@ -36,7 +36,7 @@
                     <li><a href="#home">الصفحة الرئيسية</a></li>
                 </ul>
                 <div class="navbar-brand navbar-right">
-                    <a href="index.html">
+                    <a href="index.php">
                         <img class="logo" src="img/logo.png" alt="logo">
                         <img class="logo-alt" src="img/logo.png" alt="logo" width="50" height="50">
                     </a>
