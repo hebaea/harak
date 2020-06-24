@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>منظمة حراك القطرون أفضل</title>
     <link rel="shortcut icon" href="img/logo.png" type="image/jpg">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal&display=swap" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
     <link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
     <link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
