@@ -348,7 +348,7 @@ textarea:focus {
         position: relative;
     }
     .has-dropdown>a:before {
-        font-family: 'Tajawal', sans-serif;
+        font-family: 'FontAwesome';
         content: "\f054";
         font-size: 6px;
         margin-left: 6px;
@@ -461,7 +461,7 @@ textarea:focus {
     }
     .has-dropdown>a:after {
         content: "\f054";
-        font-family: 'Tajawal', sans-serif;
+        font-family: 'FontAwesome';
         float: right;
         -webkit-transition: 0.2s -webkit-transform;
         transition: 0.2s -webkit-transform;
@@ -1661,7 +1661,7 @@ header {
 
 #back-to-top:after {
     content: "\f106";
-    font-family: 'Tajawal', sans-serif;
+    font-family: 'FontAwesome';
 }
 
 #back-to-top:hover {
